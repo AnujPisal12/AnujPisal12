@@ -4,8 +4,6 @@
 
 ### Passionate Developer | Tech Enthusiast | Lifelong Learner
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnujPisal12&color=blueviolet&style=flat-square)
-
 </div>
 
 ---
