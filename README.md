@@ -140,9 +140,6 @@ I'd love to hear from you! Whether you want to discuss technology, collaborate o
 
 <div align="center">
 
-### 💭 Quote of the Day
-
-*"The best way to predict the future is to invent it."* - Alan Kay
 
 ### ⚡ Let's Build Something Amazing Together!
 
