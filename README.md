@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anuj%20Pisal&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anuj%20Pisal&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mechanical%20Engineer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Building+scalable+web+apps+%F0%9F%9A%80;JavaScript+%2F+TypeScript+developer;React+%26+Node.js+enthusiast;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Mechanical+Engineer+%F0%9F%94%A7;Building+scalable+web+apps+%F0%9F%9A%80;JavaScript+%2F+TypeScript+developer;React+%26+Node.js+enthusiast;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 </div>
