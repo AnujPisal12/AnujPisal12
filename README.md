@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Anuj Pisal 👨‍💻
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anuj%20Pisal&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18"/>
 
-### Passionate Developer | Tech Enthusiast | Lifelong Learner
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Building+scalable+web+apps+%F0%9F%9A%80;JavaScript+%2F+TypeScript+developer;React+%26+Node.js+enthusiast;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -24,7 +26,7 @@ const anuj = {
     },
     currentFocus: "Building scalable web applications",
     learning: ["Python", "CAD Software", "Cloud Technologies"],
-    funFact: "I debug with console.log() and I'm proud of it!"
+    funFact: "I debug with console.log() and I'm proud of it! 😄"
 };
 ```
 
@@ -90,21 +92,20 @@ Diving into AWS, Azure, and modern cloud architectures for scalable solutions.
 
 ---
 
-## 📊 GitHub Statistics
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnujPisal12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujPisal12&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnujPisal12&theme=tokyonight)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnujPisal12/AnujPisal12/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnujPisal12/AnujPisal12/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnujPisal12/AnujPisal12/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
+
+> ⚙️ **Setup note:** To enable the snake animation, add this GitHub Action to your profile repo:
+> `.github/workflows/snake.yml` — [See setup guide →](https://github.com/Platane/snk)
 
 ---
 
@@ -122,6 +123,39 @@ I'm actively seeking opportunities to work on innovative projects, contribute to
 
 ---
 
+## 🎬 Beyond the Code
+
+> *When I'm not pushing commits, here's what keeps me going —*
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🏎️ Formula 1
+I follow every race weekend closely — from qualifying pace to race strategy and tire degradation. F1 is pure physics + data + human drama at 300 km/h.
+
+</td>
+<td width="33%" align="center">
+
+### 📷 Photography
+I love capturing moments and playing with light, composition, and perspective. I edit my shots in **Adobe Lightroom** to bring out the feel I'm going for.
+
+</td>
+<td width="33%" align="center">
+
+### 🎞️ Video Editing
+I cut and color-grade videos in **DaVinci Resolve** — from pacing and transitions to cinematic color looks. Storytelling through footage is its own kind of code.
+
+</td>
+</tr>
+</table>
+
+```
+ Lights out and away we go. 🏁
+```
+
+---
+
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -136,13 +170,4 @@ I'd love to hear from you! Whether you want to discuss technology, collaborate o
 
 ---
 
-<div align="center">
-
-
-### ⚡ Let's Build Something Amazing Together!
-
-**Thanks for visiting my profile! Have a great day!** 😊
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
