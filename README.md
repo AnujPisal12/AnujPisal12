@@ -94,22 +94,6 @@ Diving into AWS, Azure, and modern cloud architectures for scalable solutions.
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnujPisal12/AnujPisal12/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnujPisal12/AnujPisal12/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnujPisal12/AnujPisal12/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-> ⚙️ **Setup note:** To enable the snake animation, add this GitHub Action to your profile repo:
-> `.github/workflows/snake.yml` — [See setup guide →](https://github.com/Platane/snk)
-
----
 
 ## 🎯 What I'm Looking For
 
